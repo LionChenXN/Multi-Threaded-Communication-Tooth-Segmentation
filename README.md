@@ -20,8 +20,11 @@ Image transmission and tooth segmentation <br />
 * The server sends the segmentation result to the client
 
 ## Useage
+* Install: ```pip install requirements.txt```
+
 * Deploy the server folder to the server side, and other folder can deploy to the client side
-* Run my_server.py in the server side firstly, then launch  main.py in the client side
+* Run my_server.py in the server side firstly: ```python my_server.py```
+* Run main.py in the client side: ```python main.py```
 
 ## Data
 https://zoubo9034.github.io/TeethSEG/
