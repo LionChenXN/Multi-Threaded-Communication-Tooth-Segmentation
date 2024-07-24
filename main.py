@@ -15,8 +15,6 @@ img_queue = queue.Queue()
 
 # Create Producer
 producers = []
-# for k, v in urls.items():
-    # producers.append(threading.Thread(target=get_img, args=(k, v, img_queue,)))
 producers.append(threading.Thread(target=get_img, args=(img_queue,)))
 for producer in producers:
     producer.start()
