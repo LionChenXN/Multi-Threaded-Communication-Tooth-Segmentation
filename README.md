@@ -2,7 +2,10 @@
 2D Intraoral Scanning Image Dental Segmentation via SAM Based on Multi-threaded Communication Network
 
 ## Function
-Image transmission and tooth segmentation
+Image transmission and tooth segmentation <br />
+<br />
+![image](https://github.com/user-attachments/assets/6688be18-c0f6-49ba-b886-ce47a6a1ff3d)
+
 
 ## Related Technology
 * Multi-Threaded
